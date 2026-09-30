@@ -4,6 +4,8 @@ My personal "about me" site: who I am, my education, skills, projects, my GT 650
 
 Built with plain HTML, CSS, and JavaScript. No frameworks, no build step, and no dependencies apart from Google Fonts.
 
+Live : https://ubiquitous-kulfi-9920a7.netlify.app/
+
 ## Run it locally
 
 Open `index.html` in a browser, or serve the folder:
